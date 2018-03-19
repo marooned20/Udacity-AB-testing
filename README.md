@@ -5,6 +5,13 @@ Within the framework this project, we tried to understand whether the company sh
 - **A/B test**
 - **Regression approach**
 
+##### Requirements
+Python 3.6 (or higher)<br>
+matplotlib 2.1 (or higher)<br>
+numpy 1.10 (or higher)<br>
+pandas 0.20 (or higher) <br>
+statsmodels 0.8.0
+
 ### Probability based approach:
 - We will try to find probability of an individual receiving the new page or an old page and what are the chances of those.
 
